@@ -14,6 +14,14 @@ MovieDux is a simple React application that allows users to **browse, search, an
 
 ---
 
+## 📚 What I Learned
+
+- 📌 How to use `useState` to manage component state
+- 📌 How to use `useEffect` to fetch data on component mount
+- 📌 Handling input fields and dropdown filters in React
+- 📌 Filtering arrays dynamically based on multiple conditions
+
+
 ## 🛠️ Tech Stack
 
 - React (Hooks)
